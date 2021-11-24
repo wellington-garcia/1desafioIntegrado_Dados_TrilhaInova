@@ -1,6 +1,7 @@
 # 1desafioIntegrado_Dados_TrilhaInova
 Primeiro desafio integrado do programa Trilhas da Inova Maranhão 
 
+# Objetivo:
 O objetivo do desafio é integrar as areas de ciência de dados,  design e programação.
 
 ## O que foi feito:
