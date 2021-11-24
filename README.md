@@ -5,5 +5,5 @@ O objetivo do desafio é integrar as areas de ciência de dados,  design e progr
 
 ## O que foi feito:
 - Analise da base de dados do Departamento de Estatistica Educacional;
-- Insights
-- Criação da landing page com os dashboard e os insights, e as devidas contextualizações
+- Insights;
+- Criação da landing page com os dashboard e os insights, e as devidas contextualizações.
